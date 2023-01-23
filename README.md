@@ -6,10 +6,10 @@
 ### *<div align="center">Hey. I'm Angel, YOUR full-time full-stack(I just checked and it IS hyphenated) developer. Enjoy your stay here and happy holidays! ❄️🎄</div>*  
   
 
-- 🔭 I’m currently working on an adaptation of the beloved "Carrot In A Box" game  
+- 🔭 I’m currently trying to get hired at my dream company
   
 
-- 🌱 I’m currently learning about WebRTC and Fauna   
+- 🌱 I’m currently learning about tRPC and the intricacies of the T3 stack
   
 
 - ❓ Ask me about anything related to MEAN/MERN stack or comic book related  
